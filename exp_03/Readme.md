@@ -15,6 +15,7 @@ La idea es la siguiente, instalar NodeJS en el procesador Atheros del Arduino Y�
 
 Diagramación
 ------------
+![Diagrama eléctrico](http://haack.cl/downloads/diagramaElectrico.jpg "Diagrama eéctrico")
 
 
 Programación
